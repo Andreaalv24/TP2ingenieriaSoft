@@ -1,9 +1,5 @@
-# TP2ingenieriaSoft  
 
+# TP2ingenieriaSoft
 
+Hola me llamo Facundo Melendrez
 
-
-
-
-
-hola soy elias sarmiento
