@@ -1,3 +1,6 @@
+
 # TP2ingenieriaSoft
 
-Hola me llamo Facundo Melendrez
+Andrea Alvarez
+
+Hola soy Facundo Melendrez
